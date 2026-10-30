@@ -1,0 +1,2 @@
+SaleID,Date,Subtotal,Discount,Tax,Total,ProductID,ProductName,Quantity,UnitPrice,ItemTotal
+1,"2026-10-30",100000,10000,16200,106200,1,"Laptop",2,50000,100000
